@@ -4,6 +4,17 @@
     "description": "Color theme for Visual Studio Code with its colors theme in it.",
     "version": "0.0.1",
     "publisher": "JhosephS",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JhosephL/VSCodeThemes"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "VSCode",
+        "Main theme",
+        "Main"
+    ],
     "engines": {
         "vscode": "^1.66.0"
     },
