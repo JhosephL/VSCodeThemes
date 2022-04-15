@@ -2,7 +2,7 @@
     "name": "vscodemaintheme",
     "displayName": "VSCode Main Theme",
     "description": "Color theme for Visual Studio Code with its colors theme in it.",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "JhosephS",
     "repository": {
         "type": "git",
