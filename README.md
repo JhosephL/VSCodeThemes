@@ -1,6 +1,6 @@
 
 # By JhosephS
-# This is the README for your extension "vscodemaintheme"
+
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
