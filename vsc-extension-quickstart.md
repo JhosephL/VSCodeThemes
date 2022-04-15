@@ -1,4 +1,4 @@
-# Welcome to your VS Code Extension
+
 # By JhosephS
 
 ## What's in the folder
