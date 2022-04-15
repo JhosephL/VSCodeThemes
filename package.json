@@ -3,6 +3,7 @@
     "displayName": "VSCode Main Theme",
     "description": "Color theme for Visual Studio Code with its colors theme in it.",
     "version": "0.0.1",
+    "publisher": "JhosephL",
     "engines": {
         "vscode": "^1.66.0"
     },
