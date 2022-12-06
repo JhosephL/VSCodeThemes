@@ -4,6 +4,6 @@ All notable changes to the "vscodemaintheme" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 2.0.0
 
-- Initial release
+- Initial release: theme form ready.
