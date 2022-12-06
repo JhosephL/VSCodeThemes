@@ -1,6 +1,8 @@
 # README FILE
-# By JhosephS
-## This is the README for "vscodemaintheme"
+
+## "vscodemaintheme"
+## By JhosephS
+
 
 ![ss-json-language](https://user-images.githubusercontent.com/68712197/205774759-93284721-d7d4-4631-a8cf-a2f88be01fca.png)
 
