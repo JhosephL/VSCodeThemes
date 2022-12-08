@@ -1,0 +1,26 @@
+{
+    "name": "vscodemaintheme",
+    "displayName": "VSCode Main Theme",
+    "description": "Color theme for Visual Studio Code with its colors theme in it.",
+    "version": "2.1.2",
+    "publisher": "JhosephS",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JhosephL/VSCodeThemes.git"
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCode Main Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vs-code-theme-color-theme.json"
+            }
+        ]
+    }
+}
