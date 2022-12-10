@@ -19,3 +19,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 2.1.2
 
 - Reload error corrected.
+
+## 2.1.3
+
+- Changes in some colors: selections, suggestions and warnings.
